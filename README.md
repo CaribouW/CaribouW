@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=CaribouW&color=orange&style=flat-square)
 
 <!--
 **CaribouW/CaribouW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=CaribouW&count_private=true&theme=tokyonight" height="150" align="right" style="margin: 1px; margin-bottom: 20px;" />
+
+- 🔭 Master student at Shanghai Jiao Tong University.
